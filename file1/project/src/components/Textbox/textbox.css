@@ -1,0 +1,13 @@
+.email {
+    padding: 1px;
+    height: 36px;
+    width: 360px;
+}
+label {
+    font-size: 12px;
+}
+.password {
+    padding:1px;
+    height: 36px;
+    width: 360px;
+}

@@ -1,0 +1,24 @@
+.login_btn {
+ float: right;
+ height:36px;
+ width: 210px;
+ border-radius: 2px;
+ font-size: 14px;
+ color: #ffffff;
+ background-color: #97B860;
+ box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+ margin:20px 0px 0px 25px;
+ cursor: pointer;
+}
+.contact_us {
+    background-color: transparent;
+    color: #E4E7EB;
+  border: 1px solid rgba(255,255,255,0.6);
+  border-radius: 2px;
+    font-size: 12px;
+    height: 36px;
+    width: 120px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    cursor: pointer;
+    margin-top: 10px 0px 0px 0px;
+}

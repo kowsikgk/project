@@ -1,0 +1,105 @@
+
+body {
+    background-color: #ffff;
+    margin: 0 auto;
+    background-image: url(../../images/background.png);
+    height: 100%;
+    width: 100%;
+    display: block;
+    background-size: cover;
+
+}
+.container {
+    height: 100%;
+    width: auto;
+    background-size:cover;
+}
+.sub_container {
+
+    height: 380px;
+    width: calc(100% - 408px);
+    display: flex;
+    justify-content: center;
+    padding-top: 157px;
+   margin: 0 auto;
+
+}
+
+.container_content1 {
+    height: 51px;
+    width: 332px;
+
+
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 36px;
+    color: #ffff;
+}
+
+.log_but{
+    display: flex;
+}
+.container_content2{
+    height: 290px;
+    width: 452px;
+    opacity: 0.8;
+    color: #FFFFFF;
+
+    font-size: 20px;
+    line-height: 24px;
+    text-align: justify;
+}
+.container_content {
+    height: 290px;
+    width: 452px;
+
+    font-size: 20px;
+    line-height: 24px;
+    text-align: justify;
+    margin-right: 40px;
+    border:0;
+    color: #94a3c4;
+}
+.container_content3 {
+    float: right;
+    height: 356px;
+    width: 420px;
+    border: 0.5px solid rgba(0,0,0,0.1);
+    align-content: center;
+    background-color: #FFFF;
+
+}
+.welcome {
+height: 72px;
+width: 360px;
+color: #4A4A4A;
+font-family: "Zilla Slab";
+font-size: 30px;
+font-weight: 500;
+line-height: 36px;
+margin:30px;
+}
+.login {
+    padding-left: 30px;
+  }
+
+
+.forgot_password {
+    height: 14px;
+    width: 125px;
+    margin-top:20px;
+    margin-left: 30px;
+}
+
+.footer {
+  bottom: 0px;
+  float: left;
+  height: 17px;
+  width: 155px;
+  color: #4A4A4A;
+  font-family: "Zilla Slab";
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 17px;
+  text-align: center;
+}
